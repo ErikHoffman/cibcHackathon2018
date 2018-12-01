@@ -5,5 +5,5 @@ app.get('/', (req, res) => res.send('Hello World!'))
 
 app.get('/webhook', (req, res) => res.send('Hello Webhook World!'))
 
-var port = process.env.port || 1337;
+var port = process.env.PORT || 1337;
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))
