@@ -1,0 +1,476 @@
+Account 1
+
+Vary: Accept-Encoding
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Max-Age: 3600
+Date: Sat, 01 Dec 2018 18:28:08 GMT
+Content-Length: 501
+Content-Type: application/json
+
+[{
+  "balance": {
+    "funds_available": " 1,065 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "1"
+  }],
+  "id": "4520462058033580",
+  "label": "Smith's Creidt Card",
+  "type": "Credit Card",
+  "status": "ACTIVE"
+}, {
+  "balance": {
+    "funds_available": " 37,767 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "1"
+  }],
+  "id": "10013102524",
+  "label": "Smith's Chequing",
+  "type": "Chequing",
+  "status": "ACTIVE"
+}, {
+  "balance": {
+    "funds_available": " 10,000 ",
+    "currency": "USD"
+  },
+  "owners": [{
+    "id": "1"
+  }],
+  "id": "20036010307",
+  "label": "Smith's Savings",
+  "type": "Savings",
+  "status": "ACTIVE"
+}]
+
+Account 2 
+
+Vary: Accept-Encoding
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Max-Age: 3600
+Date: Sat, 01 Dec 2018 18:28:44 GMT
+Content-Length: 330
+Content-Type: application/json
+
+[{
+  "balance": {
+    "funds_available": " 1,505 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "2"
+  }],
+  "id": "4520592746422030",
+  "label": "Maria Visa",
+  "type": "Credit Card",
+  "status": "ACTIVE"
+}, {
+  "balance": {
+    "funds_available": " 67,104 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "2"
+  }],
+  "id": "41125273168",
+  "label": "Maria's Chequing",
+  "type": "Chequing",
+  "status": "ACTIVE"
+}]
+
+Account 3
+
+Vary: Accept-Encoding
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Max-Age: 3600
+Date: Sat, 01 Dec 2018 18:29:03 GMT
+Content-Length: 514
+Content-Type: application/json
+
+[{
+  "balance": {
+    "funds_available": " 1,339 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "3"
+  }],
+  "id": "4520620739109390",
+  "label": "Mary's Mastercard",
+  "type": "Credit Card",
+  "status": "ACTIVE"
+}, {
+  "balance": {
+    "funds_available": " 16,385 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "3"
+  }],
+  "id": "43328203262",
+  "label": "Mary's Chequing Account",
+  "type": "Chequing",
+  "status": "ACTIVE"
+}, {
+  "balance": {
+    "funds_available": " 268,250 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "3"
+  }],
+  "id": "61237559093",
+  "label": "Mary's Savings Account",
+  "type": "Savings",
+  "status": "ACTIVE"
+}]
+
+Account 4
+
+Vary: Accept-Encoding
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Max-Age: 3600
+Date: Sat, 01 Dec 2018 18:29:19 GMT
+Content-Length: 342
+Content-Type: application/json
+
+[{
+  "balance": {
+    "funds_available": "480",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "4"
+  }],
+  "id": "4520733287096890",
+  "label": "Peter's Credit Card",
+  "type": "Credit Card",
+  "status": "ACTIVE"
+}, {
+  "balance": {
+    "funds_available": " 120,431 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "4"
+  }],
+  "id": "62345852926",
+  "label": "Peter's Savings Account",
+  "type": "Savings",
+  "status": "ACTIVE"
+}]
+
+Account 5
+
+Vary: Accept-Encoding
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Max-Age: 3600
+Date: Sat, 01 Dec 2018 18:29:39 GMT
+Content-Length: 309
+Content-Type: application/json
+
+[{
+  "balance": {
+    "funds_available": "-",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "5"
+  }],
+  "id": "4520888846521380",
+  "label": "My Visa",
+  "type": "Credit Card",
+  "status": "OPEN"
+}, {
+  "balance": {
+    "funds_available": "500",
+    "currency": "GBP"
+  },
+  "owners": [{
+    "id": "5"
+  }],
+  "id": "23426567912",
+  "label": "My Chequing",
+  "type": "Chequing",
+  "status": "ACTIVE"
+}]
+
+Account 6
+
+Vary: Accept-Encoding
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Max-Age: 3600
+Date: Sat, 01 Dec 2018 18:29:56 GMT
+Content-Length: 491
+Content-Type: application/json
+
+[{
+  "balance": {
+    "funds_available": " 2,234 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "6"
+  }],
+  "id": "4520445288035160",
+  "label": "Rob's Mastercard",
+  "type": "Credit Card",
+  "status": "ACTIVE"
+}, {
+  "balance": {
+    "funds_available": " 18,968 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "6"
+  }],
+  "id": "20924255552",
+  "label": "Rob's Chequing",
+  "type": "Chequing",
+  "status": "ACTIVE"
+}, {
+  "balance": {
+    "funds_available": " 4,500 ",
+    "currency": "EUR"
+  },
+  "owners": [{
+    "id": "6"
+  }],
+  "id": "38363832218",
+  "label": "Rob's Savings",
+  "type": "Savings",
+  "status": "OPEN"
+}]
+
+Account 7
+
+Vary: Accept-Encoding
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Max-Age: 3600
+Date: Sat, 01 Dec 2018 18:30:10 GMT
+Content-Length: 511
+Content-Type: application/json
+
+[{
+  "balance": {
+    "funds_available": "704",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "7"
+  }],
+  "id": "4520478746435830",
+  "label": "Holly Mantell Credit",
+  "type": "Credit Card",
+  "status": "ACTIVE"
+}, {
+  "balance": {
+    "funds_available": " 349,344 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "7"
+  }],
+  "id": "23455968052",
+  "label": "Holly Mantell Chequing",
+  "type": "Chequing",
+  "status": "ACTIVE"
+}, {
+  "balance": {
+    "funds_available": " 35,786 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "7"
+  }],
+  "id": "89371839836",
+  "label": "Holly Mantell Savings",
+  "type": "Savings",
+  "status": "ACTIVE"
+}]
+
+Account 8
+
+Vary: Accept-Encoding
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Max-Age: 3600
+Date: Sat, 01 Dec 2018 18:30:49 GMT
+Content-Length: 513
+Content-Type: application/json
+
+[{
+  "balance": {
+    "funds_available": "708",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "8"
+  }],
+  "id": "4500413278633170",
+  "label": "Phyllis Credit Card",
+  "type": "Credit Card",
+  "status": "ACTIVE"
+}, {
+  "balance": {
+    "funds_available": " 63,759 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "8"
+  }],
+  "id": "73649471108",
+  "label": "Phyllis Chequing Account",
+  "type": "Chequing",
+  "status": "ACTIVE"
+}, {
+  "balance": {
+    "funds_available": " 33,409 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "8"
+  }],
+  "id": "14569387351",
+  "label": "Phyllis Savings Account",
+  "type": "Savings",
+  "status": "ACTIVE"
+}]
+
+Account 9 
+
+Vary: Accept-Encoding
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Max-Age: 3600
+Date: Sat, 01 Dec 2018 18:31:20 GMT
+Content-Length: 330
+Content-Type: application/json
+
+[{
+  "balance": {
+    "funds_available": "200",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "9"
+  }],
+  "id": "4500852657886790",
+  "label": "Sheldon's Visa",
+  "type": "Credit Card",
+  "status": "ACTIVE"
+}, {
+  "balance": {
+    "funds_available": " 48,835 ",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "9"
+  }],
+  "id": "90016332053",
+  "label": "Sheldon's Savings",
+  "type": "Savings",
+  "status": "ACTIVE"
+}]
+
+Account 10
+
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Max-Age: 3600
+Date: Sat, 01 Dec 2018 18:31:34 GMT
+Content-Length: 164
+Content-Type: application/json
+
+[{
+  "balance": {
+    "funds_available": "15059",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "10"
+  }],
+  "id": "15046342859",
+  "label": "Convenience Store",
+  "type": "Chequing",
+  "status": "ACTIVE"
+}]
+
+Account 11
+
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Max-Age: 3600
+Date: Sat, 01 Dec 2018 18:31:49 GMT
+Content-Length: 162
+Content-Type: application/json
+
+[{
+  "balance": {
+    "funds_available": "21298",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "11"
+  }],
+  "id": "35076549821",
+  "label": "Jon's Jewellery",
+  "type": "Chequing",
+  "status": "ACTIVE"
+}]
+
+Account 12
+
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Max-Age: 3600
+Date: Sat, 01 Dec 2018 18:32:04 GMT
+Content-Length: 165
+Content-Type: application/json
+
+[{
+  "balance": {
+    "funds_available": "39704",
+    "currency": "CAD"
+  },
+  "owners": [{
+    "id": "12"
+  }],
+  "id": "48518045285",
+  "label": "Matt's Electronics",
+  "type": "Chequing",
+  "status": "ACTIVE"
+}]

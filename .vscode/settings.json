@@ -3,5 +3,5 @@
         "node_modules{,/**}"
     ],
     "appService.deploySubpath": "",
-    "appService.defaultWebAppToDeploy": "/subscriptions/bdf1f7e3-a182-44ad-baa7-8eeef6b8aa0f/resourceGroups/appsvc_rg_Linux_centralus/providers/Microsoft.Web/sites/team13Service"
+    "appService.defaultWebAppToDeploy": "/subscriptions/bdf1f7e3-a182-44ad-baa7-8eeef6b8aa0f/resourceGroups/WebApp/providers/Microsoft.Web/sites/team13ExpressServer"
 }
