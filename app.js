@@ -127,7 +127,7 @@ app.get('/shortfall/:id', function (req, res) {
         });
 
         /* Master calculation to find out which week 1-4 it is:
-            floor( (364 - daysDiff(mostRecentSunday, dayOfTransaction)) / 7) % 4 = which week to average
+            floor( (364 - daysDiff(mostRecentSunday, dayOfTransaction)) / 7) % 4 = which week to average*/
     })
 })
 
